@@ -1,0 +1,15 @@
+/*
+*PSD 
+*/
+
+/* 01-Header */
+
+/* Mini Header  */
+
+.mini-header {
+    height: 40px;
+    line-height: 40px;
+    font-size: 12px;
+    color: #506a85;
+background-color:#f5f7fa;
+}
